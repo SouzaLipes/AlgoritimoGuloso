@@ -1,0 +1,6 @@
+@AlgoritimoGulosoTrabalho_HostAddress = http://localhost:5016
+
+GET {{AlgoritimoGulosoTrabalho_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
